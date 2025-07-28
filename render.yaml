@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: Rep7
-    env: python
-    buildCommand: ""
-    startCommand: "python main.py"
-    plan: free
